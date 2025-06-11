@@ -2,17 +2,14 @@
 <h3 align="center">Full-Stack Developer | DevOps Enthusiast | Cloud-Native Architect</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=500&lines=Building+Scalable+Web+Apps;Passionate+about+DevOps+%26+Cloud;Always+Learning+Something+New" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=500&lines=Building+Scalable+Web+Apps;Always+Learning+Something+New" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🚀 About Me
+###  About Me
 
-- 🧑‍💻 I’m a **MERN Stack Developer** passionate about building scalable, production-ready applications.
-- 🛠️ Experienced in **Docker**, **Kubernetes**, **AWS**, **GCP**, and **Terraform** for cloud-native deployments.
-- 🧪 I follow **clean architecture**, **SOLID principles**, and **event-driven designs** using Kafka, BullMQ, and Redis.
-- 📝 I write code that’s **modular, reusable, and testable**.
+- Full-Stack Developer with hands-on experience in the MERN stack, microservices, and scalable architecture. Skilled in building real-time features using WebSockets and WebRTC, and deploying applications using Docker, Kubernetes, and AWS. Focused on clean code, performance, and delivering production-ready solutions.
 
 ---
 
@@ -37,7 +34,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=meghajmb&show_icons=true&theme=radical" alt="Meghaj's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=meghajmb&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=meghajmb&theme=radical" alt="GitHub Streak" />
 </p>
@@ -47,8 +44,6 @@
 ### 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/meghaj-mb)
-[![Gmail](https://img.shields.io/badge/-meghajmb@gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:meghajmb@gmail.com)
+[![Gmail](https://img.shields.io/badge/-meghajmb@gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:meghajmb2001@gmail.com)
 
 ---
-
-> _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
