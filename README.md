@@ -1,11 +1,13 @@
-# Meghaj MB
+<h1 align="center">Meghaj M B</h1>
 
-**`Code Alchemist (Engineer | Architect | Creator)`**
+<p align="center"><strong><code>Code Alchemist (Engineer | Architect | Creator)</code></strong></p>
 
-<h3 align="left">Full-Stack Developer | DevOps Enthusiast</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=500&lines=Full-Stack+Developer;DevOps+Enthusiast;Building+Scalable+Web+Apps;Always+Learning+New+Things" alt="Typing SVG" />
+</p>
 
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=500&lines=Building+Scalable+Web+Apps;Always+Learning+Something+New" alt="Typing SVG" />
+<p align="center">
+  Passionate full-stack engineer crafting scalable systems, clean UIs, and real-time features with a DevOps mindset.
 </p>
 
 ---
