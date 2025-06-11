@@ -2,9 +2,9 @@
 
 **`Code Alchemist (Engineer | Architect | Creator)`**
 
-<h3 align="center">Full-Stack Developer | DevOps Enthusiast</h3>
+<h3 align="left">Full-Stack Developer | DevOps Enthusiast</h3>
 
-<p align="center">
+<p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=500&lines=Building+Scalable+Web+Apps;Always+Learning+Something+New" alt="Typing SVG" />
 </p>
 
