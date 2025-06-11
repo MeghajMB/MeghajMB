@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Meghaj M B</h1>
-<h3 align="center">Full-Stack Developer | DevOps Enthusiast | Cloud-Native Architect</h3>
+# Meghaj MB
+
+**`Code Alchemist (Engineer | Architect | Creator)`**
+
+<h3 align="center">Full-Stack Developer | DevOps Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=500&lines=Building+Scalable+Web+Apps;Always+Learning+Something+New" alt="Typing SVG" />
