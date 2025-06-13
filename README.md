@@ -39,9 +39,9 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=meghajmb&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=meghajmb&show_icons=true&include_all_commits=true&count_private=true&theme=transparent" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=meghajmb&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=meghajmb&theme=transparent" alt="GitHub Streak" />
 </p>
 
 ---
